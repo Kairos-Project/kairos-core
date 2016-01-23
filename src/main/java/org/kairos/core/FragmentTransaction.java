@@ -1,4 +1,4 @@
-package kairos.core;
+package org.kairos.core;
 
 /**
  * Created by Felipe on 17/08/2015.

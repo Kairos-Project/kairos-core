@@ -1,4 +1,4 @@
-package kairos.core;
+package org.kairos.core;
 
 import javafx.scene.Node;
 import javafx.scene.layout.Region;

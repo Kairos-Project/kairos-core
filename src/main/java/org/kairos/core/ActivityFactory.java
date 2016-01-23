@@ -1,4 +1,4 @@
-package kairos.core;
+package org.kairos.core;
 
 import javafx.stage.Stage;
 

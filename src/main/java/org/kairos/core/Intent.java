@@ -1,6 +1,6 @@
-package kairos.core;
+package org.kairos.core;
 
-import com.sun.istack.internal.NotNull;
+
 
 import java.util.HashMap;
 
@@ -11,7 +11,7 @@ public class Intent {
      protected Class<?> activity;
      protected HashMap extras;
 
-     public Intent(HashMap extras,@NotNull Class<?> activity){
+     public Intent(HashMap extras,Class<?> activity){
          this.extras=extras;
          this.activity=activity;
      }

@@ -1,4 +1,4 @@
-package kairos.core;
+package org.kairos.core;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.layout.Pane;

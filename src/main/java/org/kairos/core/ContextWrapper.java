@@ -1,4 +1,4 @@
-package kairos.core;
+package org.kairos.core;
 
 
 public class ContextWrapper extends Context {

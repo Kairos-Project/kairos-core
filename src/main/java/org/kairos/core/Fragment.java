@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kairos.core;
+package org.kairos.core;
 
 import javafx.animation.Timeline;
 import javafx.beans.value.ChangeListener;
